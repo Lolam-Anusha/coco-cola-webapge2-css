@@ -1,0 +1,113 @@
+header{
+    background-color: #ffffff;
+    color: #000000;
+}
+img{
+    float: left;
+}
+.links{
+    text-decoration: none;
+    color:#000000;
+    display: inline-block;
+    padding: 20px 20px;
+    font-size: 16px;
+    font-weight: 200;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container1{
+    background-image: url("https://www.coca-cola.com/content/dam/onexp/in/en/india_marvel_fans_assemble_veg_mark.jpg/width1960.jpg");
+    width: 100%;
+    height: 700px;
+}
+.div1{
+    margin: 20px 20px 20px 20px;
+    color: #ffffff;
+    padding: 300px 50px 100px 520px;
+    font-size: 20px;
+}
+.button1{
+    background-color: #fff;
+    color: #000000;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.main1{
+    justify-content: center;
+}
+.div2{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.div3{
+    padding:100px 60px 50px 150px;
+    font-size: 30px;
+}
+.a{
+    border-radius: 10px;
+    border: 1px solid black;
+    color: #000000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    text-decoration: none;
+    margin-top: 30px;
+}
+.div4{
+    justify-content: center;
+    margin:200px 180px 50px 600px;
+}
+.div5{
+   display: flex;
+   gap: 40px;
+}
+.img1{
+    border: 1px solid black;
+    background-color: beige;
+    padding:2px;
+}
+.div6{
+    display: flex;
+    gap: 40px;
+    padding-top: 30px;
+}
+footer{
+    background-color: #000000;
+    color: #fff;
+    width: 100%;
+    height: auto;
+}
+.div7{
+    padding-top: 10px;
+    padding-left: 60px;
+    display: flex;
+    gap: 700px;
+    justify-content: center;
+}
+.a2{ 
+   
+    border: 1px solid white;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.div8{
+    display: flex;
+    padding-top: 50px;
+}
+.div9{
+    padding-right: 50px;
+    padding-left: 300px;   
+}
+.div10{
+    padding-right: 50px;
+}
+.div11{
+    padding-right: 380px;
+}
